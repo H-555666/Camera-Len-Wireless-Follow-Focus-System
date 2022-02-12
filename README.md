@@ -5,7 +5,11 @@ This is a object of wireless follow focus system that is powered by micropython 
 如果你是一位爱好者，并只想制造和个人使用，请查看这份文档：[简要使用说明](https://pages.github.com/)
 
 ## 开发者
-对于开发，有另一份[代码解释](https://www.github.com/)
+这个项目完全是针对Raspberry Pi Pico进行设计的
+
+如果你想应用在其它可运行micropython的微控制器上，有另一份[代码解释](https://www.github.com/)将会使这个过程更加方便
+
+## 项目简介
 
 ## 开发&商业用途
 请注意：**此存储库中的所有软、硬件均遵循GPL3.0(GNU General Public License v3.0)**
