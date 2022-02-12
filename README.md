@@ -1,6 +1,8 @@
 # Wireless-Follow-Focus-System
 wireless follow focus system that is powered by micropython and pico
 
+***很多文件还未完善，最初版已发布，请等待🌛***
+
 ## 简要使用说明
 如果你是一位爱好者，并只想制造和个人使用，请查看这份文档：[简要使用说明](https://github.com/ZhongWwwHhh/Wireless-Follow-Focus-System/blob/main/Documentation/Quickstart.md)
 
