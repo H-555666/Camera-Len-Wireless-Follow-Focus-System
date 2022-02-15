@@ -18,7 +18,7 @@ wireless follow focus system that is powered by micropython and pico
 
 ***未来会逐渐增加为可以控制三电机的版本，并增加A-B点限位等更强大的功能，请看[开发日志](https://github.com/ZhongWwwHhh/Camera-Len-Wireless-Follow-Focus-System/blob/main/Documentation/Updatelog.md)***
 
-接收端和发射端使用相同的模块化硬件设计（PCB）_即将完成_，只用刷写不同的程序即可实现发射端-接收端的转换
+接收端和发射端使用相同的模块化硬件设计（PCB），只用刷写不同的程序即可实现发射端-接收端的转换
 
 所有软件将使用micropython以便于修改和应用，硬件将全部采用Kicad进行设计
 
