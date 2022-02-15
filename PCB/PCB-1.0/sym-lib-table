@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "E28")(type "KiCad")(uri "${KIPRJMOD}/library/E28.kicad_sym")(options "")(descr ""))
+  (lib (name "电位器")(type "KiCad")(uri "${KIPRJMOD}/library/电位器.kicad_sym")(options "")(descr ""))
+  (lib (name "跳线")(type "KiCad")(uri "${KIPRJMOD}/library/跳线.kicad_sym")(options "")(descr ""))
+)
