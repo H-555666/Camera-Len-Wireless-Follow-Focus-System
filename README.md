@@ -1,6 +1,8 @@
 # Camera-Len-Wireless-Follow-Focus-System
 ***Many documents are not yet complete, the initial version has been released, please wait🌛***
 
+**[简体中文](https://github.com/ZhongWwwHhh/Camera-Len-Wireless-Follow-Focus-System/blob/main/README_ZH_CN.md)**
+
 ## Brief Instructions for Use
 If you are an enthusiast and only want to make and use it personally, check this document: [Brief instructions for use](https://github.com/ZhongWwwHhh/Camera-Len-Wireless-Follow-Focus-System/blob/main/Documentation/Quickstart.md)
 
